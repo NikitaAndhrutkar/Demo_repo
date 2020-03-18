@@ -1,0 +1,14 @@
+1	Can Set samne name of user in admin operator	Bug
+2	"In Operator , Area master, in cities, if we select India country
+then by default it will select Mharashtra"	Area master cities
+3	Can not Directly edit pickup locatin area	Area master pickups
+4	Area not set for Amritsar and jalandhar	Area master pickups
+5	In drop off when we select area then it shows error msg	Area master dropoff
+6	"In bus master, in charts we can save if we dont put seat capcity
+Seating type,Seats"	
+7	In bus master, in charts no need of date and time	
+8	There should be lmiti for mobile number digits	
+9		
+10	Gap betwwen radio button and text is not equal	
+11	"Can add bus even if there is no bus name and other options
+are filled."	
