@@ -1,0 +1,13 @@
+This merge can also be done by pulling from her own remote-tracking branch, like this:
+
+alice$ git pull . remotes/bob/master
+Note that git pull always merges into the current branch, regardless of what else is given on the command line.
+
+Later, Bob can update his repo with Alice’s latest changes using
+
+bob$ git pull
+Note that he doesn’t need to give the path to Alice’s repository; when Bob cloned Alice’s repository, Git stored the location of her repository in the repository configuration, and that location is used for pulls:
+
+bob$ git config --get remote.origin.url
+/home/alice/project
+(The complete configuration created by git clone is visible using git config -
