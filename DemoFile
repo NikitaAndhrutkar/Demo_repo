@@ -1,0 +1,18 @@
+			used to track changes in any set of files.
+ID	Command	Use	
+1	Gitin	To take project	
+2	cd	Change directory	
+3	Clone	To fetch project from Server to local	git clone "url"
+4	-b branch name	To clone particular branch(Create new Branch)	
+5	git status	Gives file name in which file changes made in code	
+6	git stash	can undo changes made in xcode file	
+7	git branch new branch name	To create new branch	
+8	git checkout branch name	to switch branch	git checkout release
+9	git branch	gives list of branch	Release
+10	git pull origin 	pull changes made on that branch to localhost	git pull origin AXLE - 93
+11	rails s	Gives access to localhost	
+12	ctr c	Close the localhost	
+13	ls	Gives list of files in directory	
+14	git fetch origin	Shows new branches which are not avilable on local	
+15	git log	view the history of your changes	
+16	git switch experimental	to switch to the experimental branch	
